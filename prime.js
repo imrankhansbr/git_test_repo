@@ -6,6 +6,7 @@ if(num%i==0){
 f++;
 }}
 if(f==2){
+    console.log("Prime")
 
-}
+}else console.log("Not prime")
 }
